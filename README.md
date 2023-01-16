@@ -1,4 +1,4 @@
-# -amazon-clone
+# amazon-clone
 
 # Getting Started with Create React App
 
